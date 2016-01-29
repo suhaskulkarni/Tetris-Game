@@ -14,3 +14,10 @@
 5) Navigate into the "C:\Users\Username\Documents\TetrisGame\TetrisGame\bin\Release" folder. You can find the "TetrisGame.exe". Run it!
 
 Thank you!
+
+Instructions to play the game:
+
+Key A: Moves the block left
+Key D: Moves the block right
+Key W: Moves the block counter clockwise
+Key S: Moves the block clockwise
